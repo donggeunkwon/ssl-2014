@@ -1,14 +1,13 @@
 # SSL with TensorFlow
 Implementation of "Semi-Supervised Learning with Deep Generative Models"
 <br>
+<br>
 
 ### References
 D. P. Kingma, D. J Rezende, S. Mohamed, M. Welling 
-"Semi-Supervised Learning with Deep Generative Models,"
-Advances in Neural Information Processing Systems 27(NIPS 2014).
-<br>
-<br>
-<br>
+"Semi-Supervised Learning with Deep Generative Models," 
+Advances in Neural Information Processing Systems 27(NIPS 2014). 
+[PDF](https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)
 
 ### Environment
 - CPU: Intel(R) Core(TM) i7-8700K @ 3.70GHz
