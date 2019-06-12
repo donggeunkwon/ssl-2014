@@ -1,4 +1,4 @@
-# ssl-2014
+# SSL with TensorFlow
 Implementation of "Semi-Supervised Learning with Deep Generative Models"
 <br>
 
@@ -13,7 +13,7 @@ Advances in Neural Information Processing Systems 27(NIPS 2014).
 ### Environment
 - CPU: Intel(R) Core(TM) i7-8700K @ 3.70GHz
 - GPU: NVIDIA GeForce GTX 760
-
+- TensorFlow 1.10.0
 
 ### Result
 M1-Loss=94.321: 100%|██████████| 100/100 [03:32<00:00,  2.12s/it] <br>
