@@ -13,7 +13,7 @@ Advances in Neural Information Processing Systems 27(NIPS 2014).
 ### Experiments
 - CPU: Intel(R) Core(TM) i7-8700K @ 3.70GHz
 - GPU: NVIDIA GeForce GTX 760
-<br>
+
 
 ### Results
 M1-Loss=94.321: 100%|██████████| 100/100 [03:32<00:00,  2.12s/it] <br>
