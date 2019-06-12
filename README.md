@@ -1,16 +1,19 @@
 # ssl-2014
 Implementation of "Semi-Supervised Learning with Deep Generative Models"
+<br>
 
 ### References
 D. P. Kingma, D. J Rezende, S. Mohamed, M. Welling 
 "Semi-Supervised Learning with Deep Generative Models,"
 Advances in Neural Information Processing Systems 27(NIPS 2014).
-
+<br>
+<br>
 
 ### Experiments
 - CPU: Intel(R) Core(TM) i7-8700K @ 3.70GHz
 - GPU: NVIDIA GeForce GTX 760
-
+<br>
+<br>
 
 ### Results
 M1-Loss=94.321: 100%|██████████| 100/100 [03:32<00:00,  2.12s/it] <br>
