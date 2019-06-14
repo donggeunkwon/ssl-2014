@@ -26,5 +26,5 @@ M2 loss=-217453, val_acc=0.864309: 100%|██████████| 500/500 
 100%|██████████| 100/100 [00:00<00:00, 642.74it/s]
 Test Accuracy:  0.8694999974966049
 
-![M1 model](이미지파일URL)
-![M2 model](이미지파일URL)
+![M1 model](https://github.com/DonggeunKwon/ssl-2014/blob/master/img/Figure_1.png)
+![M2 model](https://github.com/DonggeunKwon/ssl-2014/blob/master/img/Figure_2.png)
