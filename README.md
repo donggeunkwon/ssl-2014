@@ -21,10 +21,11 @@ M2-Loss=2706.5: 100%|██████████| 1000/1000 [48:20<00:00,  2.
 Test Accuracy:  0.9104000002145767 <br>
 
 ### Result v2
-M1 loss=92.4554: 100%|██████████| 500/500 [19:04<00:00,  2.26s/it]
-M2 loss=-217453, val_acc=0.864309: 100%|██████████| 500/500 [30:01<00:00,  3.62s/it] 
-100%|██████████| 100/100 [00:00<00:00, 642.74it/s]
-Test Accuracy:  0.8694999974966049
+M1 loss=92.4554: 100%|██████████| 500/500 [19:04<00:00,  2.26s/it] <br>
+M2 loss=-217453, val_acc=0.864309: 100%|██████████| 500/500 [30:01<00:00,  3.62s/it]  <br>
+100%|██████████| 100/100 [00:00<00:00, 642.74it/s] <br>
+Test Accuracy:  0.8694999974966049 <br>
 
 ![M1 model](https://github.com/DonggeunKwon/ssl-2014/blob/master/img/Figure_1.png)
 ![M2 model](https://github.com/DonggeunKwon/ssl-2014/blob/master/img/Figure_2.png)
+
